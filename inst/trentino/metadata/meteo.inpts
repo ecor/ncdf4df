@@ -1,0 +1,173 @@
+! This file is a part of 'geotop.inpts' file used for GEOtop simulations of the IDROCLIMA project.
+
+
+!=======================================
+! METEO STATIONS
+!=======================================
+
+! meteo.inpts file generad by meteo.CTTFEM2GEOtop.R : copy and paste the file content to the 'geotop.inpts file'
+!
+! Station  0001  FEMid:  st21  Name:  Ronzo Chienis
+! Station  0002  FEMid:  st22  Name:  Faedo - Maso Togn
+! Station  0003  FEMid:  st23  Name:  Lomaso
+! Station  0004  FEMid:  st24  Name:  Baselga di Pine'
+! Station  0005  FEMid:  st25  Name:  Denno
+! Station  0006  FEMid:  st26  Name:  Rovereto
+! Station  0007  FEMid:  st27  Name:  S. Michele a/A
+! Station  0008  FEMid:  st28  Name:  Borgo Valsugana
+! Station  0009  FEMid:  st29  Name:  Arco
+! Station  0010  FEMid:  st30  Name:  Ala
+! Station  0011  FEMid:  st31  Name:  Cles
+! Station  0012  FEMid:  st32  Name:  Trento Sud
+! Station  0013  FEMid:  st81  Name:  Telve
+! Station  0014  FEMid:  st82  Name:  Storo
+! Station  0015  FEMid:  st83  Name:  Cavedine
+! Station  0016  FEMid:  st84  Name:  Fondo
+! Station  0017  FEMid:  st85  Name:  Bezzecca
+! Station  0018  FEMid:  st86  Name:  Vigolo Vattaro
+! Station  0019  FEMid:  st87  Name:  Predazzo
+! Station  0020  FEMid:  st88  Name:  Caldes
+! Station: meteoforcings/meteo0021.txt MeteoTrentino id: T0001 Name: Pergine Valsugana (Convento)
+! Station: meteoforcings/meteo0022.txt MeteoTrentino id: T0008 Name: Paneveggio
+! Station: meteoforcings/meteo0023.txt MeteoTrentino id: T0009 Name: Centa San Nicolo'
+! Station: meteoforcings/meteo0024.txt MeteoTrentino id: T0010 Name: Levico (Terme)
+! Station: meteoforcings/meteo0025.txt MeteoTrentino id: T0014 Name: Telve (Pontarso)
+! Station: meteoforcings/meteo0026.txt MeteoTrentino id: T0015 Name: Bieno
+! Station: meteoforcings/meteo0027.txt MeteoTrentino id: T0018 Name: Pieve Tesino (O.P. Enel)
+! Station: meteoforcings/meteo0028.txt MeteoTrentino id: T0021 Name: San Martino di Castrozza
+! Station: meteoforcings/meteo0029.txt MeteoTrentino id: T0024 Name: Passo Cereda
+! Station: meteoforcings/meteo0030.txt MeteoTrentino id: T0030 Name: Canal San Bovo
+! Station: meteoforcings/meteo0031.txt MeteoTrentino id: T0032 Name: Lavarone (Chiesa)
+! Station: meteoforcings/meteo0032.txt MeteoTrentino id: T0038 Name: San Michele All'Adige
+! Station: meteoforcings/meteo0033.txt MeteoTrentino id: T0063 Name: Pian Palu' (Diga)
+! Station: meteoforcings/meteo0034.txt MeteoTrentino id: T0064 Name: Peio
+! Station: meteoforcings/meteo0035.txt MeteoTrentino id: T0065 Name: Careser (Diga)
+! Station: meteoforcings/meteo0036.txt MeteoTrentino id: T0068 Name: Cogolo Pont (Centrale)
+! Station: meteoforcings/meteo0037.txt MeteoTrentino id: T0069 Name: Passo Tonale
+! Station: meteoforcings/meteo0038.txt MeteoTrentino id: T0071 Name: Mezzana
+! Station: meteoforcings/meteo0039.txt MeteoTrentino id: T0074 Name: Male'
+! Station: meteoforcings/meteo0040.txt MeteoTrentino id: T0075 Name: Rabbi (Somrabbi)
+! Station: meteoforcings/meteo0041.txt MeteoTrentino id: T0080 Name: Fondo
+! Station: meteoforcings/meteo0042.txt MeteoTrentino id: T0082 Name: Passo Mendola
+! Station: meteoforcings/meteo0043.txt MeteoTrentino id: T0083 Name: Cles (Convento)
+! Station: meteoforcings/meteo0044.txt MeteoTrentino id: T0088 Name: Tres
+! Station: meteoforcings/meteo0045.txt MeteoTrentino id: T0090 Name: Mezzolombardo (Convento)
+! Station: meteoforcings/meteo0046.txt MeteoTrentino id: T0092 Name: Pian Fedaia (Diga)
+! Station: meteoforcings/meteo0047.txt MeteoTrentino id: T0094 Name: Passo Costalunga
+! Station: meteoforcings/meteo0048.txt MeteoTrentino id: T0096 Name: Moena (Diga Pezze')
+! Station: meteoforcings/meteo0049.txt MeteoTrentino id: T0099 Name: Cima Paganella
+! Station: meteoforcings/meteo0050.txt MeteoTrentino id: T0101 Name: Zambana (Idrovora)
+! Station: meteoforcings/meteo0051.txt MeteoTrentino id: T0102 Name: Predazzo (Centrale)
+! Station: meteoforcings/meteo0052.txt MeteoTrentino id: T0103 Name: Passo Rolle
+! Station: meteoforcings/meteo0053.txt MeteoTrentino id: T0104 Name: Passo Valles
+! Station: meteoforcings/meteo0054.txt MeteoTrentino id: T0107 Name: Cavalese (Convento)
+! Station: meteoforcings/meteo0055.txt MeteoTrentino id: T0109 Name: Val Cadino (Segheria Canton)
+! Station: meteoforcings/meteo0056.txt MeteoTrentino id: T0113 Name: Grumes
+! Station: meteoforcings/meteo0057.txt MeteoTrentino id: T0114 Name: Valda
+! Station: meteoforcings/meteo0058.txt MeteoTrentino id: T0115 Name: Segonzano (Gresta)
+! Station: meteoforcings/meteo0059.txt MeteoTrentino id: T0116 Name: Segonzano (Scancio)
+! Station: meteoforcings/meteo0060.txt MeteoTrentino id: T0118 Name: Cembra
+! Station: meteoforcings/meteo0061.txt MeteoTrentino id: T0119 Name: Lisignago
+! Station: meteoforcings/meteo0062.txt MeteoTrentino id: T0129 Name: Trento (Laste)
+! Station: meteoforcings/meteo0063.txt MeteoTrentino id: T0135 Name: Trento (Roncafort)
+! Station: meteoforcings/meteo0064.txt MeteoTrentino id: T0136 Name: Trento (Ufficio)
+! Station: meteoforcings/meteo0065.txt MeteoTrentino id: T0137 Name: Trento (Piazza Vittoria)
+! Station: meteoforcings/meteo0066.txt MeteoTrentino id: T0139 Name: Sant'Orsola Terme
+! Station: meteoforcings/meteo0067.txt MeteoTrentino id: T0141 Name: Sternigo
+! Station: meteoforcings/meteo0068.txt MeteoTrentino id: T0142 Name: Povo
+! Station: meteoforcings/meteo0069.txt MeteoTrentino id: T0144 Name: Monte Bondone
+! Station: meteoforcings/meteo0070.txt MeteoTrentino id: T0146 Name: Aldeno (San Zeno)
+! Station: meteoforcings/meteo0071.txt MeteoTrentino id: T0147 Name: Rovereto
+! Station: meteoforcings/meteo0072.txt MeteoTrentino id: T0148 Name: Terragnolo (Piazza)
+! Station: meteoforcings/meteo0073.txt MeteoTrentino id: T0149 Name: Vallarsa (Diga di Speccheri)
+! Station: meteoforcings/meteo0074.txt MeteoTrentino id: T0150 Name: Vallarsa (Foxi)
+! Station: meteoforcings/meteo0075.txt MeteoTrentino id: T0151 Name: Mori (Loppio)
+! Station: meteoforcings/meteo0076.txt MeteoTrentino id: T0152 Name: Brentonico
+! Station: meteoforcings/meteo0077.txt MeteoTrentino id: T0153 Name: Ala (Ronchi)
+! Station: meteoforcings/meteo0078.txt MeteoTrentino id: T0154 Name: Ala (Convento)
+! Station: meteoforcings/meteo0079.txt MeteoTrentino id: T0166 Name: Val Di Genova (O.P. Enel)
+! Station: meteoforcings/meteo0080.txt MeteoTrentino id: T0167 Name: Pradalago (Rifugio Viviani)
+! Station: meteoforcings/meteo0081.txt MeteoTrentino id: T0168 Name: Passo Campo Carlo Magno
+! Station: meteoforcings/meteo0082.txt MeteoTrentino id: T0169 Name: Monte Groste' (Rifugio Graffer)
+! Station: meteoforcings/meteo0083.txt MeteoTrentino id: T0174 Name: Giustino (Dos Del Sabion)
+! Station: meteoforcings/meteo0084.txt MeteoTrentino id: T0175 Name: Pinzolo
+! Station: meteoforcings/meteo0085.txt MeteoTrentino id: T0177 Name: Val di Breguzzo (Ponte Arno')
+! Station: meteoforcings/meteo0086.txt MeteoTrentino id: T0178 Name: La Rocca (Centrale)
+! Station: meteoforcings/meteo0087.txt MeteoTrentino id: T0179 Name: Tione
+! Station: meteoforcings/meteo0088.txt MeteoTrentino id: T0182 Name: Montagne (Larzana)
+! Station: meteoforcings/meteo0089.txt MeteoTrentino id: T0186 Name: Nembia (Centrale)
+! Station: meteoforcings/meteo0090.txt MeteoTrentino id: T0189 Name: Santa Massenza (Centrale)
+! Station: meteoforcings/meteo0091.txt MeteoTrentino id: T0190 Name: Lago Di Cavedine
+! Station: meteoforcings/meteo0092.txt MeteoTrentino id: T0192 Name: Arco
+! Station: meteoforcings/meteo0093.txt MeteoTrentino id: T0193 Name: Torbole (Belvedere)
+! Station: meteoforcings/meteo0094.txt MeteoTrentino id: T0200 Name: Tenno
+! Station: meteoforcings/meteo0095.txt MeteoTrentino id: T0203 Name: Forte D'Ampola
+! Station: meteoforcings/meteo0096.txt MeteoTrentino id: T0204 Name: Bezzecca
+! Station: meteoforcings/meteo0097.txt MeteoTrentino id: T0210 Name: Folgaria
+! Station: meteoforcings/meteo0098.txt MeteoTrentino id: T0212 Name: Spormaggiore
+! Station: meteoforcings/meteo0099.txt MeteoTrentino id: T0222 Name: Borgo Valsugana
+! Station: meteoforcings/meteo0100.txt MeteoTrentino id: T0231 Name: Campestrin
+! Station: meteoforcings/meteo0101.txt MeteoTrentino id: T0232 Name: Lodrone (frana)
+! Station: meteoforcings/meteo0102.txt MeteoTrentino id: T0236 Name: Romeno
+! Station: meteoforcings/meteo0103.txt MeteoTrentino id: T0322 Name: Arco (Arboreto)
+! Station: meteoforcings/meteo0104.txt MeteoTrentino id: T0323 Name: Campodenno (frana)
+! Station: meteoforcings/meteo0105.txt MeteoTrentino id: T0324 Name: Prezzo (frana)
+! Station: meteoforcings/meteo0106.txt MeteoTrentino id: T0325 Name: Villa Rendena (frana)
+! Station: meteoforcings/meteo0107.txt MeteoTrentino id: T0326 Name: Vigolo Vattaro (frana)
+! Station: meteoforcings/meteo0108.txt MeteoTrentino id: T0327 Name: Monte Bondone (Giardino Botanico)
+! Station: meteoforcings/meteo0109.txt MeteoTrentino id: T0354 Name: Tremalzo
+! Station: meteoforcings/meteo0110.txt MeteoTrentino id: T0355 Name: Passo Brocon
+! Station: meteoforcings/meteo0111.txt MeteoTrentino id: T0360 Name: Passo Tonale
+! Station: meteoforcings/meteo0112.txt MeteoTrentino id: T0363 Name: Vallarsa (Malga Boffetal)
+! Station: meteoforcings/meteo0113.txt MeteoTrentino id: T0364 Name: Vermiglio (Capanna Presena)
+! Station: meteoforcings/meteo0114.txt MeteoTrentino id: T0365 Name: Cima Presena
+! Station: meteoforcings/meteo0115.txt MeteoTrentino id: T0366 Name: Peio
+! Station: meteoforcings/meteo0116.txt MeteoTrentino id: T0367 Name: Cavalese
+! Station: meteoforcings/meteo0117.txt MeteoTrentino id: T0368 Name: Monte Bondone (Viote)
+! Station: meteoforcings/meteo0118.txt MeteoTrentino id: T0369 Name: Passo Sommo
+! Station: meteoforcings/meteo0119.txt MeteoTrentino id: T0370 Name: Storo (Lodrone)
+! Station: meteoforcings/meteo0120.txt MeteoTrentino id: T0371 Name: Lases (frana)
+! Station: meteoforcings/meteo0121.txt MeteoTrentino id: T0372 Name: Monte Vioz (Rifugio Mantova)
+! Station: meteoforcings/meteo0122.txt MeteoTrentino id: T0373 Name: Daone (Malga Bissina)
+! Station: meteoforcings/meteo0123.txt MeteoTrentino id: T0374 Name: Rovereto (Malga Zugna)
+! Station: meteoforcings/meteo0124.txt MeteoTrentino id: T0375 Name: Marmolada (Pian Dei Fiacconi)
+! Station: meteoforcings/meteo0125.txt MeteoTrentino id: T0376 Name: Tesero (Pala De Santa)
+! Station: meteoforcings/meteo0126.txt MeteoTrentino id: T0377 Name: Cima Rosetta
+! Station: meteoforcings/meteo0127.txt MeteoTrentino id: T0436 Name: Ragoli (Rifugio Alimonta)
+! Station: meteoforcings/meteo0128.txt MeteoTrentino id: T0443 Name: Brentonico (Santa Caterina)
+! Station: meteoforcings/meteo0129.txt MeteoTrentino id: T0450 Name: San Martino di Castrozza
+! Station: meteoforcings/meteo0130.txt MeteoTrentino id: T0469 Name: Castello Tesino (Le Parti)
+!
+!
+NumberOfMeteoStations=130
+MeteoStationCoordinateX=650848.94,667418.75,644512.25,673925.5,658436.12,656731.75,663628.5,691493,646362.06,657311.62,656926.31,664587.69,691634.94,621316.62,653434.94,663596.25,633824.38,669940.5,700104,650793.5,672997,711553,673086,678439,692745,697711,702598,715896,724923,711185,674697,664546,624213,628896,630579,629915,624155,638267,647602,638621,664235,668863,656254,661791,661468,719831,700886,704891,657346,660583,699814,714636,715465,689420,686131,677126,674884,676597,674391,671216,669249,665153,662427,663731,664252,677921,673953,666875,659010,662061,658565,666917,666003,664075,649939,651730,660674,655530,633335,639820,641724,645721,639414,635701,626956,632212,633926,635491,649777,653156,651100,646623,645721,641995,627788,633359,667845,657848,689563,708465,618420,662908,646011,656324,626499,633257,668879,657889,630778,705758,623059,668271,621849,622123,629091,688863,659073,671071,619274,671741,625460,617135,659896,719732,694697,718320,645977,652226,715494,703428
+MeteoStationCoordinateY=5083241,5117975.5,5097349,5110493,5125738,5082504,5116620.5,5102047,5085824,5072279.5,5136199.5,5098670.5,5103481,5078208.5,5094289,5144884,5083901,5096203,5130422.5,5137986,5103399,5132107,5093159,5097804,5109911,5106236,5105189,5126893,5119914,5114314,5089881,5117656,5132705,5135854,5142408,5135988,5124564,5130437,5134902,5141220,5145118,5142943,5136272,5131821,5119980,5149031,5142300,5140124,5111990,5113522,5131766,5130930,5135456,5129334,5124183,5121138,5119785,5120069,5117814,5115397,5114086,5104248,5106821,5106230,5103758,5108523,5112061,5103742,5097598,5092600,5084532,5082917,5070540,5072898,5079788,5075595,5067150,5069007,5114342,5123390,5122632,5120185,5114199,5112935,5098917,5097959,5100074,5102107,5107676,5103205,5095267,5087182,5081337,5086704,5080243,5084014,5086920,5120515,5102854,5149272,5076994,5139641,5087135,5124913,5088029,5102229,5097384,5098504,5077834,5110449,5124454,5068619,5120593,5119706,5135910,5128611,5097617,5087380,5076207,5111977,5137988,5101043,5074723,
+5147440,5135677,5127352,5115115,5076359,5126914,5103763
+MeteoStationElevation =957,696,492,983,324,170,203,420,84,172,656,185,412,385,552,918,705,706,1001,773,475,1540,805,502,925,843,785,1450,1322,750,1155,205,1800,1565,2600,1190,1795,905,720,1352,987,1360,665,838,225,2063,1750,1205,2125,201,1005,2012,2032,1000,964,845,855,660,720,652,613,312,194,218,196,925,1040,430,1500,182,203,800,875,665,230,693,692,165,900,2084,1681,2262,2100,760,1148,943,533,955,810,252,245,91,90,415,740,698,1121,555,385,1385,995,958,115,610,680,840,815,1552,1560,1610,1875,1550,2730,3015,1585,958,1490,1360,392,705,2975,1785,1620,2676,2200,2685,2580,727,1470,801
+MeteoStationWindVelocitySensorHeight=10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+MeteoStationTemperatureSensorHeight =10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,!!2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+MeteoStationLatitude=45.886196,46.194763,46.014465,46.125839,46.266727,45.87825,46.183498,46.045193,45.9104,45.786148,46.361172,46.021824,46.058048,45.84676,45.985001,46.437698,45.895657,45.998322,46.297848,46.378632,46.06227631,46.30951731,45.97016081,46.01056242,46.11555056,46.08108786,46.07024353,46.26127945,46.19562158,46.14967869,45.94027203,46.19258803,46.33652883,46.36398214,46.42261772,46.36499275,46.26330058,46.31340453,46.35159801,46.41032872,46.43964531,46.41894361,46.36197872,46.32064658,46.21422703,46.45900643,46.40440064,46.38363633,46.14332785,46.15635256,46.31001225,46.29797097,46.33839033,46.29112789,46.24572072,46.22074456,46.20915722,46.21126865,46.19155853,46.17062753,46.1593285,46.07185136,46.09564639,46.09001961,46.06766133,46.10709297,46.13993316,46.06688236,46.01349442,45.96782575,45.89643672,45.87957178,45.76846972,45.79013947,45.85533342,45.81722369,45.73923692,45.75711703,46.16960419,46.24969558,46.24248267,46.21962647,46.16710108,46.15647979,46.03205203,46.02243869,46.04113243,46.0591135,46.10622797,46.06526249,45.99431719,45.92256083,45.87017291,45.91923267,45.86389294,45.89676231,45.91534926,46.21988839,46.05298525,46.46478094,45.83633528,46.39070933,45.92226836,46.25977975,45.93418044,46.06064994,46.00920814,46.02190281,45.84165856,46.11658975,46.26251044,45.75064292,46.22799303,46.21996394,46.36444875,46.28478205,46.01365069,45.91869117,45.82910708,46.13973813,46.38382542,46.05293072,45.80753558,46.44473831,46.34666467,46.26463083,46.17396633,45.823933,46.26159587,46.05717778
+MeteoStationLongitude=10.944168,11.169777,10.866802,11.251293,11.056045,11.0197,11.12022,11.47508,10.88716,11.02383,11.039959,11.126421,11.47749,10.562442,10.981014,11.129643,10.725044,11.194649,11.59826,10.960859,11.23670156,11.74750902,11.23413775,11.30491106,11.49443342,11.55710853,11.61980292,11.80145302,11.91511022,11.73477353,11.25371981,11.13246044,10.61397169,10.67566039,10.69935939,10.68893881,10.61106828,10.79582897,10.91841055,10.8036145,11.13803453,11.19745142,11.03124906,11.10164465,11.09339197,11.86283215,11.61349144,11.6645808,11.03732905,11.07973339,11.59506931,11.78696952,11.79979094,11.45922803,11.41453025,11.29667014,11.26712192,11.2894168,11.26000869,11.21801939,11.19208831,11.13565308,11.10130522,11.11795975,11.12384094,11.30223033,11.25222344,11.15772756,11.05404975,11.09174056,11.04378514,11.15100344,11.13497183,11.11099339,10.93137114,10.95310717,11.06535547,10.99987083,10.72725081,10.81389542,10.83835547,10.88941811,10.80591858,10.7574828,10.64052914,10.70815178,10.7308802,10.75167519,10.93802161,10.98027751,10.9511945,10.89093781,10.87753798,10.83114219,10.64629331,10.71907881,11.16435266,11.04666918,11.45047883,11.71509564,10.52485108,11.11886203,10.88303511,11.02837922,10.63174511,10.72284075,11.18136839,11.03987806,10.68414239,11.66289737,10.59682317,11.16345165,10.58013033,10.58345267,10.67820972,11.45171306,11.05486939,11.20608489,10.53564894,11.22357624,10.6315825,10.51419124,11.05786619,11.860795,11.53030128,11.83308053,10.89116986,10.959814,11.79625262,11.6299111
+
+
+
+
+
+!======================================= 
+! METEO HAEDERS 
+!======================================= 
+
+HeaderDateDDMMYYYYhhmmMeteo = "Date"
+HeaderJulianDayfrom0Meteo = "JDfrom0"
+HeaderIPrec = "Iprec"
+HeaderWindVelocity = "WindSp"
+HeaderWindDirection = "WindDir"
+HeaderWindX = "WindX"
+HeaderWindY = "WindY"
+HeaderRH = "RelHum"
+HeaderAirTemp = "AirT"
+HeaderAirPress = "AirP"
+HeaderSWglobal = "SWglobal"
+HeaderCloudSWTransmissivity = "CloudTrans"

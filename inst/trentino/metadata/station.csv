@@ -1,0 +1,131 @@
+geotop_id,id,name
+X0001,FEMst21,Ronzo Chienis
+X0002,FEMst22,Faedo - Maso Togn
+X0003,FEMst23,Lomaso
+X0004,FEMst24,Baselga di Pine''
+X0005,FEMst25,Denno
+X0006,FEMst26,Rovereto
+X0007,FEMst27,S. Michele a/A
+X0008,FEMst28,Borgo Valsugana
+X0009,FEMst29,Arco
+X0010,FEMst30,Ala
+X0011,FEMst31,Cles
+X0012,FEMst32,Trento Sud
+X0013,FEMst81,Telve
+X0014,FEMst82,Storo
+X0015,FEMst83,Cavedine
+X0016,FEMst84,Fondo
+X0017,FEMst85,Bezzecca
+X0018,FEMst86,Vigolo Vattaro
+X0019,FEMst87,Predazzo
+X0020,FEMst88,Caldes
+X0021,T0001,Pergine Valsugana (Convento)
+X0022,T0008,Paneveggio
+X0023,T0009,Centa San Nicolo
+X0024,T0010,Levico (Terme)
+X0025,T0014,Telve (Pontarso)
+X0026,T0015,Bieno
+X0027,T0018,Pieve Tesino (O.P. Enel)
+X0028,T0021,San Martino di Castrozza
+X0029,T0024,Passo Cereda
+X0030,T0030,Canal San Bovo
+X0031,T0032,Lavarone (Chiesa)
+X0032,T0038,San Michele All''Adige
+X0033,T0063,Pian Palu'' (Diga)
+X0034,T0064,Peio
+X0035,T0065,Careser (Diga)
+X0036,T0068,Cogolo Pont (Centrale)
+X0037,T0069,Passo Tonale
+X0038,T0071,Mezzana
+X0039,T0074,Male''
+X0040,T0075,Rabbi (Somrabbi)
+X0041,T0080,Fondo
+X0042,T0082,Passo Mendola
+X0043,T0083,Cles (Convento)
+X0044,T0088,Tres
+X0045,T0090,Mezzolombardo (Convento)
+X0046,T0092,Pian Fedaia (Diga)
+X0047,T0094,Passo Costalunga
+X0048,T0096,Moena (Diga Pezze)
+X0049,T0099,Cima Paganella
+X0050,T0101,Zambana (Idrovora)
+X0051,T0102,Predazzo (Centrale)
+X0052,T0103,Passo Rolle
+X0053,T0104,Passo Valles
+X0054,T0107,Cavalese (Convento)
+X0055,T0109,Val Cadino (Segheria Canton)
+X0056,T0113,Grumes
+X0057,T0114,Valda
+X0058,T0115,Segonzano (Gresta)
+X0059,T0116,Segonzano (Scancio)
+X0060,T0118,Cembra
+X0061,T0119,Lisignago
+X0062,T0129,Trento (Laste)
+X0063,T0135,Trento (Roncafort)
+X0064,T0136,Trento (Ufficio)
+X0065,T0137,Trento (Piazza Vittoria)
+X0066,T0139,Sant''Orsola Terme
+X0067,T0141,Sternigo
+X0068,T0142,Povo
+X0069,T0144,Monte Bondone
+X0070,T0146,Aldeno (San Zeno)
+X0071,T0147,Rovereto
+X0072,T0148,Terragnolo (Piazza)
+X0073,T0149,Vallarsa (Diga di Speccheri)
+X0074,T0150,Vallarsa (Foxi)
+X0075,T0151,Mori (Loppio)
+X0076,T0152,Brentonico
+X0077,T0153,Ala (Ronchi)
+X0078,T0154,Ala (Convento)
+X0079,T0166,Val Di Genova (O.P. Enel)
+X0080,T0167,Pradalago (Rifugio Viviani)
+X0081,T0168,Passo Campo Carlo Magno
+X0082,T0169,Monte Groste'' (Rifugio Graffer)
+X0083,T0174,Giustino (Dos Del Sabion)
+X0084,T0175,Pinzolo
+X0085,T0177,Val di Breguzzo (Ponte Arno'')
+X0086,T0178,La Rocca (Centrale)
+X0087,T0179,Tione
+X0088,T0182,Montagne (Larzana)
+X0089,T0186,Nembia (Centrale)
+X0090,T0189,Santa Massenza (Centrale)
+X0091,T0190,Lago Di Cavedine
+X0092,T0192,Arco
+X0093,T0193,Torbole (Belvedere)
+X0094,T0200,Tenno
+X0095,T0203,Forte D''Ampola
+X0096,T0204,Bezzecca
+X0097,T0210,Folgaria
+X0098,T0212,Spormaggiore
+X0099,T0222,Borgo Valsugana
+X0100,T0231,Campestrin
+X0101,T0232,Lodrone (frana)
+X0102,T0236,Romeno
+X0103,T0322,Arco (Arboreto)
+X0104,T0323,Campodenno (frana)
+X0105,T0324,Prezzo (frana)
+X0106,T0325,Villa Rendena (frana)
+X0107,T0326,Vigolo Vattaro (frana)
+X0108,T0327,Monte Bondone (Giardino Botanico)
+X0109,T0354,Tremalzo
+X0110,T0355,Passo Brocon
+X0111,T0360,Passo Tonale
+X0112,T0363,Vallarsa (Malga Boffetal)
+X0113,T0364,Vermiglio (Capanna Presena)
+X0114,T0365,Cima Presena
+X0115,T0366,Peio
+X0116,T0367,Cavalese
+X0117,T0368,Monte Bondone (Viote)
+X0118,T0369,Passo Sommo
+X0119,T0370,Storo (Lodrone)
+X0120,T0371,Lases (frana)
+X0121,T0372,Monte Vioz (Rifugio Mantova)
+X0122,T0373,Daone (Malga Bissina)
+X0123,T0374,Rovereto (Malga Zugna)
+X0124,T0375,Marmolada (Pian Dei Fiacconi)
+X0125,T0376,Tesero (Pala De Santa)
+X0126,T0377,Cima Rosetta
+X0127,T0436,Ragoli (Rifugio Alimonta)
+X0128,T0443,Brentonico (Santa Caterina)
+X0129,T0450,San Martino di Castrozza
+X0130,T0469,Castello Tesino (Le Parti)

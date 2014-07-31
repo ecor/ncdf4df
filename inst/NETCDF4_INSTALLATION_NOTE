@@ -1,0 +1,26 @@
+### 
+### Build Netcdf4 following the instruction on 
+
+###http://www.unidata.ucar.edu/software/netcdf/docs/getting_and_building_netcdf.html#build_default
+#####export PATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:$PATH
+export ZLIB_SOURCE_DIRECTORY=/Users/ecor/local/src/zlib-1.2.8
+export HDF4_SOURCE_DIRECTORY=/Users/ecor/local/src/hdf5-1.8.12 
+export NETCDF_SOURCE_DIRECTORY=/Users/ecor/local/src/netcdf-4.3.2
+export INSTALLATION_DIR=/Users/ecor/local 
+
+## installing zlib 
+
+cd ${ZLIB_SOURCE_DIRECTORY}
+./configure --prefix=${INSTALLATION_DIR}
+make check install
+cd ${HDF4_SOURCE_DIRECTORY}
+## installing hdf5 
+./configure --with-zlib=${INSTALLATION_DIR} --prefix=${INSTALLATION_DIR} 
+make check install
+
+
+
+cd ${NETCDF_SOURCE_DIRECTORY}
+## installing netcf-4
+CPPFLAGS=-I${INSTALLATION_DIR}/include LDFLAGS=-L${INSTALLATION_DIR}/lib ./configure --prefix=${INSTALLATION_DIR} -enable-netcdf-4
+make check install

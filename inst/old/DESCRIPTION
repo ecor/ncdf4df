@@ -1,0 +1,16 @@
+Package: RSUBDAILYCLIM
+Maintainer: Emanuele Cordano <emanuele.cordano@gmail.com>
+License: GPL (>= 2)
+Title: RSUBDAILYCLIM 
+Type: Package
+Author: Emanuele Cordan
+Description: RSUBDAILYClimatology (Climate Index) with subdaily precipitation data. This package contains... Bugs/comments/questions/collaboration of any
+    kind are warmly welcomed.
+Version: 1.0
+Repository: CRAN
+Date: 2014-05-14
+Depends:ncdf4
+Suggests: RMAWGEN,Interpol.T,geotopbricks
+URL: https://www.linkedin.com/profile/view?id=118802181&trk=nav_responsive_tab_profile
+   http://www.fmach.it/Centro-Ricerca-e-Innovazione/info-generali/organizzazione/Agroecosistemi-Sostenibili-e-Biorisorse/Piattaforma-Dinamiche-degli-Agroecosistemi/Cordano-Emanuele
+	
